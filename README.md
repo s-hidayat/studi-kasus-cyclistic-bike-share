@@ -11,20 +11,20 @@ Menganalisis lebih dari 5,7 juta data perjalanan sepanjang tahun 2025, studi ini
 👉 **[Lihat Laporan R Markdown (HTML) Lengkap](https://s-hidayat.github.io/studi-kasus-cyclistic-bike-share/)** 
 ---
 
-### 🎯 Tujuan Bisnis
+###  Tujuan Bisnis
 Menemukan perbedaan perilaku antara pengguna *Casual* (harian) dan *Member* (tahunan) untuk merancang strategi konversi keanggotaan yang berfokus pada peningkatan profitabilitas jangka panjang.
 
-### 🛠️ Data & Metodologi
+###  Data & Metodologi
 * **Data:** 12 bulan log perjalanan historis Cyclistic (2025).
 * **Processing (SQL via DuckDB):** Menggabungkan 12 file CSV, menghapus duplikasi, dan memfilter anomali waktu. Berhasil mengekstrak **5.399.563 baris data bersih** dari 5.5M+ data mentah.
 * **Analysis & Visualisasi:** R (`tidyverse`, `ggplot2`) dan Tableau.
 
-### 💡 TL;DR Insights
+###  TL;DR Insights
 1. 🚴 **Durasi:** Pengguna *Casual* bersepeda rata-rata **2x lebih lama** per perjalanan dibandingkan *Member*.
 2. 📈 **Pola Waktu:** Pengguna *Casual* melonjak drastis di **akhir pekan** (indikasi rekreasi), sementara *Member* mendominasi **hari kerja** secara konsisten (indikasi komuter).
 3. 📊 **Volume:** *Member* menghasilkan total volume perjalanan tahunan tertinggi karena frekuensi pemakaian yang intens.
 
-### 🚀 TL;DR Rekomendasi
+###  TL;DR Rekomendasi
 * **Kampanye Akhir Pekan:** Alokasikan promosi diskon *membership* secara agresif pada hari Sabtu-Minggu di stasiun-stasiun area rekreasi.
 * **Fitur *Value-Driven*:** Tampilkan pop-up penghematan tarif (*"Berapa yang Anda hemat jika menjadi Member"*) di aplikasi khusus untuk pengguna *Casual* berdurasi panjang.
 * **Opsi Transisi:** Perkenalkan "Paket Member Akhir Pekan" sebagai jembatan sebelum komitmen keanggotaan tahunan.
