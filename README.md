@@ -8,7 +8,7 @@ Proyek Capstone **Google Data Analytics** ini menganalisis >5,5 juta data histor
 
 Menganalisis lebih dari 5,7 juta data perjalanan sepanjang tahun 2025, studi ini mengungkap perbedaan perilaku fundamental antara kedua tipe pengguna—mulai dari kapan mereka berkendara, berapa lama durasinya, hingga di mana lokasi favorit mereka.
 
-👉 **[Lihat Laporan R Markdown (HTML) Lengkap](https://s-hidayat.github.io/cyclistic-bike-share-analysis/)** 
+👉 **[Lihat Laporan R Markdown (HTML) Lengkap](https://s-hidayat.github.io/studi-kasus-cyclistic-bike-share/)** 
 ---
 
 ### 🎯 Tujuan Bisnis
