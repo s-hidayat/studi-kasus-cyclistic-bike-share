@@ -20,9 +20,9 @@ Menemukan perbedaan perilaku antara pengguna *Casual* (harian) dan *Member* (tah
 * **Analysis & Visualisasi:** R (`tidyverse`, `ggplot2`) dan Tableau.
 
 ###  TL;DR Insights
-1. 🚴 **Durasi:** Pengguna *Casual* bersepeda rata-rata **2x lebih lama** per perjalanan dibandingkan *Member*.
-2. 📈 **Pola Waktu:** Pengguna *Casual* melonjak drastis di **akhir pekan** (indikasi rekreasi), sementara *Member* mendominasi **hari kerja** secara konsisten (indikasi komuter).
-3. 📊 **Volume:** *Member* menghasilkan total volume perjalanan tahunan tertinggi karena frekuensi pemakaian yang intens.
+1.  **Durasi:** Pengguna *Casual* bersepeda rata-rata **2x lebih lama** per perjalanan dibandingkan *Member*.
+2.  **Pola Waktu:** Pengguna *Casual* melonjak drastis di **akhir pekan** (indikasi rekreasi), sementara *Member* mendominasi **hari kerja** secara konsisten (indikasi komuter).
+3.  **Volume:** *Member* menghasilkan total volume perjalanan tahunan tertinggi karena frekuensi pemakaian yang intens.
 
 ###  TL;DR Rekomendasi
 * **Kampanye Akhir Pekan:** Alokasikan promosi diskon *membership* secara agresif pada hari Sabtu-Minggu di stasiun-stasiun area rekreasi.
