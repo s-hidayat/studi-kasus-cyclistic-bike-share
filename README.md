@@ -30,4 +30,3 @@ Menemukan perbedaan perilaku antara pengguna *Casual* (harian) dan *Member* (tah
 * **Opsi Transisi:** Perkenalkan "Paket Member Akhir Pekan" sebagai jembatan sebelum komitmen keanggotaan tahunan.
 
 ---
-*Ingin berdiskusi lebih lanjut? Mari terhubung di [LinkedIn](https://www.linkedin.com/in/s-hidayat-69b1b5372).*
